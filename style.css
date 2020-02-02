@@ -1,0 +1,29 @@
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 52px;
+    text-align: center;
+}
+
+button {
+    display: block;
+    margin: auto;
+    width: 100px;
+    height: 50px;
+}
+
+.container {
+    width: 608px;
+    height: 608px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    padding-top: 50px;
+}
+
+.gridPiece {
+    width: 38px;
+    height: 38px;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
