@@ -1,6 +1,7 @@
 h1 {
     font-family: Arial, sans-serif;
     font-size: 52px;
+    color: white;
     text-align: center;
 }
 
@@ -24,6 +25,13 @@ button {
     width: 38px;
     height: 38px;
     border: 1px solid black;
+    border-color: white;
     box-sizing: border-box;
 }
 
+body {
+    background-image: url("bg.jpg");
+    background-size: 1920px 1080px;
+    background-repeat: no-repeat;
+    background-color: rgb(rgb(10, 21, 121), green, blue)
+}
